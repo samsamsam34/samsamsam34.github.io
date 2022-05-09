@@ -3,8 +3,7 @@ layout: default
 title: "Research"
 ---
 
-I am a member the geospatial snow water and ice resources group (GeoSWIRL), led by Eric Sproles. As a member of this lab group, I have 
-worked on...
+I am a member the geospatial snow water and ice resources group (GeoSWIRL), led by Eric Sproles. As a member of this lab group, I have worked on...
 
 
 GeoSWIRL [Storymap][1]:
