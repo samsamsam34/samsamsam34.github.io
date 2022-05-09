@@ -1,5 +1,5 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "Sam Neitlich"
+author: "Sam Neitlich"
 description: "Montana State University"
 permalink: /:title/
 lang: "en"
@@ -16,8 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: Home Change}
-  - {file: "README.md", title: About Me}
+  - {file: "index.html", title: "Home Change"}
+  - {file: "README.md", title: "About Me"}
+  - {file: "projects.md",title: "Projects"}
+  - {file: "Resume.pdf", title: "Resume"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sam.neitlich@gmail.com"}
