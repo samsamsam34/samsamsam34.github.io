@@ -10,7 +10,7 @@ new text goes hereeeee
 
 Button:
 
-[Click me](http://www.google.com){: .btn}
+[Click me](WA_burn.md){: .btn}
 
 
 
