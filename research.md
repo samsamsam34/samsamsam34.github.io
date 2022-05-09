@@ -3,7 +3,7 @@ layout: default
 title: "Research"
 ---
 
-I am a member the geospatial snow water and ice resources group (GeoSWIRL), led by Eric Sproles. As a member of this lab group, I have worked on... GeoSWIRL [Storymap][1] \n\n\n MSU Rooftop Snow Monitoring [Application][2]
+I am a member the geospatial snow water and ice resources group (GeoSWIRL), led by Eric Sproles. As a member of this lab group, I have worked on... GeoSWIRL [Storymap][1] MSU Rooftop Snow Monitoring [Application][2]
 
 
 
