@@ -16,4 +16,4 @@ The static maps created for this project are attached below. Note that these are
 
 <img src="photos/Stream_Corridors&Health.jpg" alt="Stream Corridors and Health" width="800"/>
 
-
+[Return to Projects Page](projects.md){: .btn}
