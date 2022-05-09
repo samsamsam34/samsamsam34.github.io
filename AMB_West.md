@@ -10,6 +10,9 @@ The static maps created for this project are attached below. Note that these are
 
 <img src="photos/North_Conifer_Encroachment_Geo.jpg" alt="North Conifer Encroachment" width="800"/>
 
+![screenshot](photos/North_Conifer_Encroachment_Geo.jpg)
+
+
 
 <img src="photos/South_Conifer_Encroach_Geo.jpg" alt="South Conifer Encroachment" width="800"/>
 
