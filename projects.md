@@ -9,6 +9,9 @@ title: "Projects"
 Predicting Burn Patterns and Glacial Retreat in North Central Washington
 Click for more information
 
+[Click me](WA_burn.md){: .btn}
+
+
 
 ## Junior Year
 
