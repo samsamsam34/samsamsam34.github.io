@@ -4,8 +4,18 @@ title: "Projects"
 ---
 
   
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Projects" %}
-{% endif %}
+## Sophomore Year
+
+Predicting Burn Patterns and Glacial Retreat in North Central Washington
+Click for more information
+
+
+## Junior Year
+
+Identifying Areas for Restoration with Remote Sensing
+Click for more information
+
+Landscape Scale Snowpack Model in Alaskan National Parks
+Click for more information
+
+
