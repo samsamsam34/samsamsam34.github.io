@@ -10,3 +10,6 @@ This project was focused on creating a landscape scale snow water equivalent (SW
 
 
 Here is a scatterplot showing SWE values predicted by the model vs. observed SWE values in this study area. 
+
+
+[Return to Projects Page](projects.md){: .btn}
