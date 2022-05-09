@@ -7,20 +7,18 @@ Throughout my college career, I have completed a number of large scale projects 
   
 ## Freshman and Sophomore Year
 
-Predicting Burn Patterns and Glacial Retreat in North Central Washington
+### Predicting Burn Patterns and Glacial Retreat in North Central Washington
 
-[Click here](WA_burn.md){: .btn} for more information
-
-
+This two-part project involved analyzing patterns in fire activity and seasonal snow change over the past two decades in north central Washington State. [Click here](WA_burn.md){: .btn} for more information.
 
 ## Junior Year
 
-Identifying Areas for Restoration with Remote Sensing
+### Identifying Areas for Restoration with Remote Sensing
 
-[Click here](AMB_West.md){: .btn} for more information
+This project was based around using remote sensing to identify areas where conifers were encroaching into shrub steppe and track riparian health and stream corridor movement over time in a Montana land trust. The results of these pieces of analysis were used to identify potential areas for restoration within the land trust. [Click here](AMB_West.md){: .btn} for more information.
 
-Landscape Scale Snowpack Model in Alaskan National Parks
+### Landscape Scale Snowpack Model in Alaskan National Parks
 
-[Click here](AK_Snow.md){: .btn} for more information
+This project was centered around using satellite-derived data to model snow water equivalent (SWE) at a landscape scale in central Alaska. The model was created primarily in Python. [Click here](AK_Snow.md){: .btn} for more information.
 
 
