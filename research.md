@@ -19,7 +19,7 @@ This project relies on using high-resolution drone imagery to predict snow heigh
 
 This project was based on using SfM to construct a 3D snow cover model and digital elevation model (DEM) for a MSU-owned research farm in central Montana. The original drone data was collected as part of NASA’s 2021 SnowEx campaign, and the model outputs will be used in combination with LiDAR data to validate UAVSAR measurements. In this project, I used Agisoft Metashape to construct a 4D model and produce orthomosaics, DEMs, and accuracy assessments for previously collected drone data. 
 
-Here is an orthomosaic and DEM that were produced in this model. These products were both constructed from images taken in January 2021.
+Below are an orthomosaic and DEM that were produced in this SfM model. These products were both constructed from images taken in January 2021.
 
 
 ![Orthomosaic, January 2021](photos/ortho.png)
