@@ -3,19 +3,8 @@ layout: page
 title: "Academics"
 ---
 
-UPDATE5: I am interested in tackling issues in environmental science, vegetation, geology, hydrology and snow science through the use of a variety of spatial and statistical analysis techniques. As a Junior at Montana State University, I have skills in remote sensing, structure from motion, GIS, computer science and statistics as well as an understanding of topics in environmental science, soils, geology, and watershed hydrology. I am also participating in ongoing research in a geospatially based snow hydrology lab and would like to continue participating in active research in the future. [Application][1]
+Over the past three years, I have taken a variety of MSU courses in remote sensing, spatial analysis, environmental science, and computer science. Through these classes, I have gained skills in Python, Java, GIS, R, html/css, ERDAS Imagine, and advanced GPS technology, among other similar skills. I have also developed a solid foundation in ecology, biology, hydrology, and earth and soil science. I have also completed a number of large-scale projects including spatial and temporal explorations of the trends in fire activity and of seasonal snow retreat in north central Washington State, a project using remote sensing to derive glacial mass balance in Greenland, and projects examining soil and water properties in Bozeman. These projects can be seen [here](projects.md){: .btn}. In completing these projects and other classwork, I have primarily focused on the detection of environmental status and trends, especially those caused by climate change. 
 
-
-new text goes hereeeee
-
-Button:
-
-[Click me](WA_burn.md){: .btn}
-
-
-
-
-
- [1]: https://storymaps.arcgis.com/stories/baebbcc87c614173b216ee965ecbef67
+While my primary focus has been on environmental science, geospatial analysis, and computer science, I have also taken a wide variety of interdisciplinary honors courses such as Chinese and literature based seminars. These classes have greatly broadened my worldview and sharpened my communication skills.
 
 
