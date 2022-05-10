@@ -11,6 +11,10 @@ Throughout my college career, I have completed a number of large-scale projects 
 
 This two-part project involved analyzing patterns in fire activity and seasonal snow change over the past two decades in north central Washington State. [Click here](WA_burn.md){: .btn} for more information about this project.
 
+Here's a map created as part of the glacier classification project.
+
+
+![Glacier Classification Map](/photos/glacier.png)
 
 ## Junior Year
 
