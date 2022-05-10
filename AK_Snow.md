@@ -16,4 +16,4 @@ Here is a scatterplot showing SWE values predicted by the model vs. observed SWE
 [Return to Projects Page](projects.md){: .btn}
 
 
-ADD MAP HERE ONCE PROJECT IS FINISHED
+ALASKA SNOW PROJECT IS STILL BEING FINISHED--FINAL MAP WILL BE UPLOADED HERE WHEN THE PROJECT IS COMPLETE.
