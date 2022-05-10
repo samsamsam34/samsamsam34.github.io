@@ -14,3 +14,6 @@ Here is a scatterplot showing SWE values predicted by the model vs. observed SWE
 ![Model Fit Output Graph](photos/model_fit.png)
 
 [Return to Projects Page](projects.md){: .btn}
+
+
+ADD MAP HERE ONCE PROJECT IS FINISHED
