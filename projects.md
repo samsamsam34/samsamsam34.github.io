@@ -14,7 +14,7 @@ This two-part project involved analyzing patterns in fire activity and seasonal 
 Here's a map created as part of the glacier classification project.
 
 
-![Glacier Classification Map](/photos/glacier.png)
+![Glacier Classification Map](/photos/glacier_map.png)
 
 ## Junior Year
 
